@@ -1,0 +1,71 @@
+
+#+BEGIN: clocktable :scope file :maxlevel 2
+#+CAPTION: Clock summary at [2025-03-26 Wed 12:09]
+| Headline                               |     Time |
+|----------------------------------------+----------|
+| *Total time*                             | *1d 12:00* |
+|----------------------------------------+----------|
+| Unit 1: Fundamentos sobre SIG y...     |     8:00 |
+| Unit 2: Gestión de datos geoespaciales |     6:00 |
+| Unit 3: Modelamiento de datos y...     |    14:00 |
+| Unit 4: Teledetección                  |     8:00 |
+#+END:
+
+
+* Unit 1: Fundamentos sobre SIG y cartografía
+SCHEDULED: <2025-04-09 Wed ++3w>
+:PROPERTIES:
+:LAST_REPEAT: [2025-04-30 Wed 14:00]
+:END:
+- State "DONE"       from "TODO"       [2025-04-30 Wed 16:00]
+:LOGBOOK:
+CLOCK: [2025-04-09 Wed 14:00]--[2025-04-09 Wed 16:00] =>  2:00
+CLOCK: [2025-04-16 Wed 14:00]--[2025-04-16 Wed 16:00] =>  2:00
+CLOCK: [2025-04-23 Wed 14:00]--[2025-04-23 Wed 16:00] =>  2:00
+CLOCK: [2025-04-30 Wed 14:00]--[2025-04-30 Wed 16:00] =>  2:00
+:END:
+
+* Unit 2: Gestión de datos geoespaciales
+SCHEDULED: <2025-05-07 Wed ++3w>
+:PROPERTIES:
+:LAST_REPEAT: [2025-05-21 Wed 14:00]
+:END:
+- State "DONE"       from "TODO"       [2025-05-21 Wed 16:00]
+:LOGBOOK:
+CLOCK: [2025-05-07 Wed 14:00]--[2025-05-07 Wed 16:00] =>  2:00
+CLOCK: [2025-05-14 Wed 14:00]--[2025-05-14 Wed 16:00] =>  2:00
+CLOCK: [2025-05-21 Wed 14:00]--[2025-05-21 Wed 16:00] =>  2:00
+:END:
+
+* Unit 3: Modelamiento de datos y generación de documentos cartográficos
+<2025-05-26 Mon> - <2025-06-27 Fri>
+SCHEDULED: <2025-05-28 Wed ++6w>
+:PROPERTIES:
+:LAST_REPEAT: [2025-07-09 Wed 14:00]
+:END:
+- State "DONE"       from "TODO"       [2025-07-09 Wed 16:00]
+:LOGBOOK:
+CLOCK: [2025-05-28 Wed 14:00]--[2025-03-28 Fri 11:48] => -1467:48
+CLOCK: [2025-06-04 Wed 14:00]--[2025-06-04 Wed 16:00] =>  2:00
+CLOCK: [2025-06-11 Wed 14:00]--[2025-06-11 Wed 16:00] =>  2:00
+CLOCK: [2025-06-18 Wed 14:00]--[2025-06-18 Wed 16:00] =>  2:00
+CLOCK: [2025-06-25 Wed 14:00]--[2025-06-25 Wed 16:00] =>  2:00
+CLOCK: [2025-07-02 Wed 14:00]--[2025-07-02 Wed 16:00] =>  2:00
+CLOCK: [2025-07-09 Wed 14:00]--[2025-07-09 Wed 16:00] =>  2:00
+:END:
+
+* Unit 4: Teledetección
+<2025-06-30 Mon> - <2025-08-09 Sat>es
+SCHEDULED: <2025-07-16 Wed ++3w>
+:PROPERTIES:
+:LAST_REPEAT: [2025-08-06 Wed 14:00]
+:END:
+- State "DONE"       from "TODO"       [2025-08-06 Wed 16:00]
+:LOGBOOK:
+CLOCK: [2025-07-16 Wed 14:00]--[2025-07-16 Wed 16:00] =>  2:00
+CLOCK: [2025-07-23 Wed 14:00]--[2025-07-23 Wed 16:00] =>  2:00
+CLOCK: [2025-07-30 Wed 14:00]--[2025-07-30 Wed 16:00] =>  2:00
+CLOCK: [2025-08-06 Wed 14:00]--[2025-08-06 Wed 16:00] =>  2:00
+:END:
+
+
