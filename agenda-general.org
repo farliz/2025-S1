@@ -1,13 +1,20 @@
 #+TITLE: AGENDA AND NOTES 2025-S1
 #+AUTHOR: LIZARDO MAURICIO REYNA BOWEN
 
-[[/home/mia005/Pictures/S1-2025.jpeg]]
 
 
+* SYLLABUS
+[[file:syllabus-sig-ambiemtal.org][sig-ambiental]]
+* FIASA
 
+** Done meet with FIASA <2025-03-28 Fri>
 
-[[file:002500S1ML/agendaml.org][Agenda ML]]
-[[file:cartografia_basica_s1-2025.org][Syllabus Cartografía Básica]]
+** Todo meet zoom 
+SCHEDULED: <2025-04-03 Thu 09:00>
+Hora: 3 abr 2025 09:00 Bogotá
+Únase a la reunión de Zoom
+https://us02web.zoom.us/j/81197775122?pwd=ib0bBkEN2izJoxDZ5yrQTQUyIq8sa2.1
+ID de reunión: 811 9777 5122
 
 * MEETINGS 
 
@@ -20,13 +27,39 @@ SCHEDULED: <2025-03-28 Fri 15:00>
 ** Protocolo de titulación 
 SCHEDULED: <2025-04-18 Fri 10:00>
 * HCD
-
+* PODCAST
+** Done Felipe Garces
+** Done Ezequiel Zamora
+** Todo Ignacio Zambrano 
+SCHEDULED: <2025-04-04 Fri>
+** Todo Michelle 
+** Todo Camilo Zamora
 * TEACHER CONVERSATIONS
-
 * STUDENTS
 
-* FELLOWSHIPS
+** Carta de recomendacion para Adrian Vera Esmeraldas
 
+** Carta de recomendacion para Fabio Calero
+SCHEDULED: <2025-03-31 Mon>
+
+** Certificado de ayudantia para Dayana Shiguango
+DEADLINE: <2025-03-31 Mon>
+
+* FELLOWSHIPS
 * THESES
+* CAMPUS
+
+** Done Pintar sala de informatica
+DEADLINE: <2025-03-27 Thu>
+
+** Podar la cancha
+SCHEDULED: <2025-03-26 Wed ++18w>
 
 * OTHER
+* GITHUB and tips
+
+GitHub Token:
+git remote set-url origin https://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@github.com/farliz/2025-S1
+git remote set-url origin https://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@github.com/farliz/spectral_processing
+
+
