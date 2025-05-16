@@ -2,9 +2,78 @@
 #+AUTHOR: LIZARDO MAURICIO REYNA BOWEN
 
 
+* COMISION ACADEMICA
+Liudmyla Shkiliova, PhD.
+Richard Cevallos Mera, Mg.
+Crishtian Vega Ponce, PhD.
+Amparo Gilces Reyna, Mg.
+Henry Pacheco Gil, PhD.
 
-* SYLLABUS
-[[file:syllabus-sig-ambiemtal.org][sig-ambiental]]
+* COMITE CIENTIFICO
+Cristhian Vega Ponce PhD.
+Ezequiel Zamora Ledezma, PhD.
+Verónica Espinel Pino, PhD.
+Juan Primera Ferrer, PhD.
+Henry Pacheco Gil, PhD.
+
+* COMISION DE TITULACION
+Ing. Verónica Espinel Pino, PhD.
+Emilio Jarre Castro, Mg.
+Henry Pacheco Gil, PhD.
+Ezequiel Zamora Ledezma, PhD.
+Ma. Luisa Izaguirre Lessman, PhD.Docente especialista de área
+
+* COMISION DE SEGUIMIENTO A GRADUADOS E INSERCION LABORAL
+Manuel Palomeque Beltrón, Ph.D.
+
+* LABORATORIO DEPENDENCIAS
+Centro de Mecanización Agrícola	Mgs. Richard Cevallos Mera
+Laboratorios de Suelos y Aguas	Mgs. Amparo Gilces Reyna
+Laboratorio de Ecosistemas	Dr. Ezequiel Zamora Ledezma
+Laboratorio de Automatización y modelado 3D	Dr. Cristhian Vega Ponce
+Laboratorio de Modelado y Cálculo	Dr. Juan Primera Ferrer
+Laboratorio de Informática y Análisis Espacial	Dr. Henry Pacheco
+Laboratorio de Construcciones Rurales	Mgs. Amador Calderón Cedeño
+
+* COMISION DE PLANIFICACION
+Comisión de planificación, evaluación y aseguramiento de la calidad de la Facultad de Ingeniería Agrícola
+
+Lizardo Mauricio Reyna Bowen	Decano 
+Tanya Beatriz Bravo Mero	Responsable de la Facultad (Secretaria)
+Verónica Dayana Espinel Pino 	Profesor Responsable
+Milena Nicole Carvajal Palma	Estudiante
+Verónica Dayana Espinel Pino 	Profesor designado del HCD
+Roxana Zambrano Mendoza 	Administrativo 
+
+* COMITE DE PLANIFICACION AGRICOLA
+Comité de planificación, evaluación y aseguramiento de la calidad de la Facultad de Ingeniería Agrícola – carrera de Ingeniería Agrícola:
+
+Emilio José Jarre Castro	Vicedecano de carrera
+Tanya Beatriz Bravo Mero	Responsable de la Facultad (Secretaria)
+Tanya Beatriz Bravo Mero	Profesor Responsable
+Ezequiel Zamora Ledezma 	Vicedecano de Investigación
+Tanya Beatriz Bravo Mero	Coordinadora 
+Manuel Horacio Palomeque Beltron y Juan Ramón Primera Ferrer	Docentes
+Jonathan Javier Mendieta Mendoza	Estudiante
+Verónica Macías Pérez	Administrativo 
+
+* COMITE PLANIFICACION Tgeo
+
+Alfredo Carvajal Rivadeneira	Vicedecano de carrera
+Tanya Beatriz Bravo Mero	Responsable de la Facultad (Secretaria)
+Walter Núñez Pilligua 	Profesor Responsable
+Ezequiel Zamora Ledezma 	Vicedecano de Investigación
+Tanya Beatriz Bravo Mero	Coordinadora 
+Manuel Horacio Palomeque Beltron y Juan Ramón Primera Ferrer	Docentes
+Jonathan Mendieta	Estudiante
+Verónica Macías Pérez	Administrativo 
+
+* RESPONSABLE PPP
+Amador Calderón Cedeño, Mg.
+
+* RESPONSABLE TUTORIAS
+Amador Calderón Cedeño, Mg.
+
 * FIASA
 
 ** Done meet with FIASA <2025-03-28 Fri>
@@ -18,27 +87,35 @@ ID de reunión: 811 9777 5122
 
 * MEETINGS 
 
-** Ignacio Zambrano MAATE PODCAST:
+** DONE Ignacio Zambrano MAATE PODCAST:
 to make a podcast on renewable energy
-** Project: Solar panels in Lodana
+** TODO Project: Solar panels in Lodana
 To make an requirement report
-** Comisión de disciplina 
+** DONE Comisión de disciplina 
 SCHEDULED: <2025-03-28 Fri 15:00>
 ** Protocolo de titulación 
 SCHEDULED: <2025-04-18 Fri 10:00>
+** DONE MARIANA UIRMAN
+ - PROMOCION DE EVENTOS DE MAYO
+ - INGRESAR MAESTRIAS EN SENESCYT 
+ - PROGRAMAR ACTIVIDADES CON ML
+** DONE POLONIA - SOC/SPECTRAL DATA <2025-05-13 Tue>
 * HCD
 * PODCAST
-** Done Felipe Garces
-** Done Ezequiel Zamora
-** Todo Ignacio Zambrano 
-SCHEDULED: <2025-04-04 Fri>
-** Todo Michelle 
-** Todo Camilo Zamora
+** VETERINARIA
+https://www.youtube.com/live/by-u2SpAUYY?si=nEHI5hrfgrsUGOuJ
+** DONE Done Felipe Garces
+https://www.youtube.com/live/XnQlfpTO8AA
+** DONE Done Ezequiel Zamora
+https://www.youtube.com/live/UrEcnmfBVj4?si=WbJl8YRp_TK1dZN5
+** DONE Todo Ignacio Zambrano 
+SCHEDULED: <2025-05-13 Tue>
+** CANCELED Todo Michelle 
+** TODO Todo Camilo Zamora
 * TEACHER CONVERSATIONS
 * STUDENTS
 
 ** Carta de recomendacion para Adrian Vera Esmeraldas
-
 ** Carta de recomendacion para Fabio Calero
 SCHEDULED: <2025-03-31 Mon>
 
@@ -55,11 +132,17 @@ DEADLINE: <2025-03-27 Thu>
 ** Podar la cancha
 SCHEDULED: <2025-03-26 Wed ++18w>
 
+* SYLLABUS
+[[file:syllabus-sig-ambiemtal.org][sig-ambiental]]
 * OTHER
+* REGISTRO SENESCYT INVESTIGADOR
+Por medio del presente se le notifica que usted ha solicitado la Recuperación de Contraseña del Sistema de Registro, Acreditación y Categorización de Investigadores Nacionales y Extranjeros.
+                   
+Su nueva clave para ingreso al sistema es : A7TtIyDm
 * GITHUB and tips
 
 GitHub Token:
 git remote set-url origin https://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@github.com/farliz/2025-S1
 git remote set-url origin https://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@github.com/farliz/spectral_processing
-
-
+git remote set-url origin https://farliz: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@github.com/farliz/spectral_processing
+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
