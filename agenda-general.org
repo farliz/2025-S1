@@ -1,6 +1,7 @@
 #+TITLE: AGENDA AND NOTES 2025-S1
 #+AUTHOR: LIZARDO MAURICIO REYNA BOWEN
 
+* ELECCIONES DE REPRESENTANTES AL HCU
 
 * COMISION ACADEMICA
 Liudmyla Shkiliova, PhD.
@@ -148,3 +149,10 @@ git remote set-url origin https://farliz:ghp_srw6mtHSO6lYlfDwFkiQoEPxW6B1gt4Vhwm
 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
 * COURSES
 https://ocw.un-ihe.org/course/view.php?id=272 
+* TIPS
+replace whitespace by underscore
+rename "s/ /_/g" *
+
+delete string in a name file
+rename 's/_1//' *
+
